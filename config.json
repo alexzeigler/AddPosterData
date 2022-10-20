@@ -1,0 +1,10 @@
+{
+  "sourcePath": "V:\\.posters\\Watched Folder",
+  "moviesPath": "V:\\Movies\\",
+  "tvshowsPath": "V:\\TV Shows\\",
+  "collectionsPath": "V:\\.posters\\Collections\\",
+  "ignored_files": [
+    "Thumbs.db",
+    ""
+  ]
+}
