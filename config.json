@@ -1,8 +1,10 @@
 {
-  "sourcePath": "V:\\.posters\\Watched Folder",
-  "moviesPath": "V:\\Movies\\",
-  "tvshowsPath": "V:\\TV Shows\\",
-  "collectionsPath": "V:\\.posters\\Collections\\",
+  "paths": {
+    "Source": "V:\\.posters\\Watched Folder",
+    "Movies": "V:\\Movies\\",
+    "TV Shows": "V:\\TV Shows\\",
+    "Collections": "V:\\.posters\\Collections\\"
+  },
   "ignored_files": [
     "Thumbs.db",
     ""
