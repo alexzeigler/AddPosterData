@@ -54,7 +54,7 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-his is a custom made PHP script that works by taking posters downloaded (manually) from https://theposterdb.com/ and sorts them into their respective folder in the Plex media folder. When sorting, it deletes any folder that has a poster already in it, and replaces it with the new poster.
+This is a custom made PHP script that works by taking posters downloaded (manually) from https://theposterdb.com/ and sorts them into their respective folder in the Plex media folder. When sorting, it deletes any folder that has a poster already in it, and replaces it with the new poster.
 
 
 ![image](https://user-images.githubusercontent.com/11970623/196852667-74e8439d-09fa-47dd-95b4-83d3762c11de.png)
