@@ -69,7 +69,7 @@ This is a custom made PHP script that works by taking posters downloaded (manual
 
 This script only requires a valid PHP install. 
 
-<b>Note: </b> This script was developed in the windows environment. If you are running anything other than Windows, you will neeed to edit the config to change the paths to a valid path for your environment. More info can be found [here](https://example.com).
+<b>Note: </b> This script was developed in the windows environment. If you are running anything other than Windows, you will neeed to edit the config to change the paths to a valid path for your environment. More info can be found (<a href="#config>here</a>).
 
 
 ### Plex
